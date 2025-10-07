@@ -15,3 +15,9 @@ TASK
 - terza condizione solo multipli di 5
 - quarta condizione numeri non multipli di 3 e/o 5
 */
+
+//stampo i numeri da 1 a 100 usando un ciclo for
+for (let i = 1; i <= 100; i++) {
+    console.log(i);
+    
+}
